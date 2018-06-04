@@ -22,4 +22,4 @@
 | 4.4 menuActionMode             | [点此进入](https://github.com/18750193427/m4/tree/master/4.UImodule/menuActionMode) |
 | **Chapter 5  Setting**         | [点此进入](https://github.com/18750193427/m4/tree/master/5.Setting) |
 | **Chapter 6  Intent**          | [点此进入](https://github.com/18750193427/m4/tree/master/6.Intent) |
-| ** midterm   test **          | [点此进入](https://github.com/18750193427/m4/tree/master/NotePad-master) |
+| ** midterm   test **          | [点此进入](https://github.com/18750193427/m4/tree/master/NotePad) |
